@@ -1,0 +1,11 @@
+{
+    "name": "kurjata/app-php-catalog-video",
+    "description": "App With PHP - Catalog Video",
+    "authors": [
+        {
+            "name": "Carlos Ferreira",
+            "email": "carlos@email.com"
+        }
+    ],
+    "require": {}
+}
