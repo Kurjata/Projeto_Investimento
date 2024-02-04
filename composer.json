@@ -7,5 +7,10 @@
             "email": "carlos@email.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/Core/"
+        }
+    },
     "require": {}
 }
